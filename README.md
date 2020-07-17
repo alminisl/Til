@@ -8,4 +8,4 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## Vscode
 
-- [Publishing a extension]()
+- [Publishing an extension](https://github.com/alminisl/Til/blob/master/vscode/publishing-extension.md)
