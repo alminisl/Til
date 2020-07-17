@@ -1,0 +1,12 @@
+- Install Tools:
+    - yeoman
+        - `npm install yo -g`
+        - Generates the Extension pack with running `yo` in console
+    - VSCE
+        - `npm install vsce -g`
+        - Used to publish the extension:
+            - `vsce package`
+            - `vsce publish`
+            - After user is setup with Public Token 
+        - Reference guide - [https://code.visualstudio.com/api/working-with-extensions/publishing-extension](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+    
