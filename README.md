@@ -12,4 +12,4 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## Git
 
--[Git tips and tricks]()
+- [Git tips and tricks](https://github.com/alminisl/Til/blob/master/git/git.md)
