@@ -9,3 +9,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 ## Vscode
 
 - [Publishing an extension](https://github.com/alminisl/Til/blob/master/vscode/publishing-extension.md)
+
+## Git
+
+-[Git tips and tricks]()

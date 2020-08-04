@@ -1,0 +1,20 @@
+- **Workflow (git / github)**
+    - Long lived branch like **master**
+        - Create Branch - Open Pull Request - Merge and Deploy
+    - Multi Command alias
+        - `co = git checkout -b`
+        - `s=status`
+        - `unstage=reset HEAD`
+    - `git add -p`
+        - Seperate changes and make seperate commits
+    - `git status` Normal way to see what is modified
+        - `-s` one liner to see what happened
+        - `-sb` see changes and the current position to master
+    - `git commit --ammend`
+        - Quick way to fix a commit you made / Commit message / Changes the commit SHA
+        - Can also be used to add another file to a commit if you forget it
+    - `git rebase`
+        - Pick commits from one branch and add them to another
+        - `- i` modify commit history, squash etc
+        - `git merge new-branch --no-edit` - No popup for the auto generated commit message
+        - also usable for `git commit --amend --no-edit`
