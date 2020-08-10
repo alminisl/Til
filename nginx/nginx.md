@@ -66,3 +66,5 @@ sudo ln -s /etc/nginx/sites-available/second-nodejs-app sites-enabled/second-nod
 sudo service nginx restart
 ```
 
+
+[Source](https://javascript.tutorialhorizon.com/2015/12/29/setup-nginx-with-multi-domain-websites-running-on-nodejs/)
