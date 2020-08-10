@@ -16,6 +16,6 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## Nginx & NodeJS
 
-- [Nginx glossary](nginxGlossary.md)
+- [Nginx glossary](../nginx/nginxGlossary.md)
 
 - [nginx with multi domain websites running on nodejs](./nginx/nginx.md)
