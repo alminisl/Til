@@ -19,3 +19,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 - [Nginx glossary](../nginx/nginxGlossary.md)
 
 - [nginx with multi domain websites running on nodejs](./nginx/nginx.md)
+
+## WSL
+
+- [Installing ZSH on WSL](../WSL/installing-zsh.md)
