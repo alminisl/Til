@@ -44,4 +44,4 @@ Or Alternatively you can use `"Cascadia Code PL"` which you can easily install f
 
 In the end you have a nice and shiny Terminal: 
 
-![][https://i.imgur.com/cpzinJh.png]
+![https://i.imgur.com/cpzinJh.png]
