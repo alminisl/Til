@@ -31,6 +31,16 @@ ZSH_THEME="robbyrussell"
 ZSH_THEME="agnoster"
 ```
 
+## Make sure npm/nvm/yarn works
+
+Copy the `NVM_DIR` from `.bashrc` and add it to the `zshrc` 
+
+```
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+```
+
 ## Note: If this is the first time installing zsh
 
 You probably do not have installed a powerline font. That means the you will get artifacts instead of the shiny lignatures which ZSH supports. To fix this do the following: 
