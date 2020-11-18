@@ -22,4 +22,4 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## WSL
 
-- [Installing ZSH on WSL](../WSL/installing-zsh.md)
+- [Installing ZSH on WSL](./WSL/installing-zsh.md)
