@@ -31,6 +31,8 @@ ZSH_THEME="robbyrussell"
 ZSH_THEME="agnoster"
 ```
 
+More themes can be found here [zsh themes](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes) 
+
 ## Make sure npm/nvm/yarn works
 
 Copy the `NVM_DIR` from `.bashrc` and add it to the `.zshrc` (or just copy paste the below code into the `.zshrc`) 
