@@ -13,7 +13,7 @@ Second step is installin oh-my-zsh with:
 
 ## Configuring zsh/oh-my-zsh
 
-Add this snippet to the `~/.bashrc` to make `zsh` the default shell:
+If ZSH is not the default shell, when you re-open the terminal add this snippet to the `~/.bashrc` to make `zsh` the default shell:
 
 ```bash
 if test -t 1; then
