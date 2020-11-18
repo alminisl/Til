@@ -33,12 +33,14 @@ ZSH_THEME="agnoster"
 
 ## Make sure npm/nvm/yarn works
 
-Copy the `NVM_DIR` from `.bashrc` and add it to the `zshrc` 
+Copy the `NVM_DIR` from `.bashrc` and add it to the `.zshrc` (or just copy paste the below code into the `.zshrc`) 
 
 ```
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+export PATH="$HOME/.yarn/bin:$HOME/.config/yarn/global/node_modules/.bin:$PATH"
 ```
 
 ## Note: If this is the first time installing zsh
